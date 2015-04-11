@@ -1,0 +1,46 @@
+2015-04-11 12:12:51.414 PwNApp[6147:113664] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Data/Application/38FCEFD4-0A62-45A5-BD1C-04AE11259758/Library/Cookies/Cookies.binarycookies
+2015-04-11 12:12:51.517 PwNApp[6147:113664] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 12:12:51.517 PwNApp[6147:113664] Multi-tasking -> Device: YES, App: YES
+2015-04-11 12:12:51.520 PwNApp[6147:113664] Unlimited access to network resources
+2015-04-11 12:12:51.910 PwNApp[6147:113664] Resetting plugins due to page load.
+2015-04-11 12:12:52.230 PwNApp[6147:113664] Finished load of: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Bundle/Application/E42DE74D-CF70-4760-8DAE-80CA5B479F39/PwNApp.app/www/index.html#/firebase
+2015-04-11 12:13:43.585 PwNApp[6147:114090] Camera.getPicture: source type 1 not available.
+2015-04-11 12:13:47.050 PwNApp[6147:114065] Camera.getPicture: source type 1 not available.
+2015-04-11 12:13:50.844 PwNApp[6147:114090] Camera.getPicture: source type 1 not available.
+2015-04-11 12:57:36.460 PwNApp[6147:116549] Camera.getPicture: source type 1 not available.
+2015-04-11 12:57:37.664 PwNApp[6147:116549] Camera.getPicture: source type 1 not available.
+2015-04-11 12:59:14.174 PwNApp[6440:117698] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Data/Application/97FCD6FC-89DC-4EFC-82CF-2EB8EBF601D6/Library/Cookies/Cookies.binarycookies
+2015-04-11 12:59:14.246 PwNApp[6440:117698] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 12:59:14.246 PwNApp[6440:117698] Multi-tasking -> Device: YES, App: YES
+2015-04-11 12:59:14.248 PwNApp[6440:117698] Unlimited access to network resources
+2015-04-11 12:59:14.418 PwNApp[6440:117698] Resetting plugins due to page load.
+2015-04-11 12:59:14.642 PwNApp[6440:117698] Finished load of: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Bundle/Application/B9C04C22-8499-4EAC-82A0-7E99478FCA89/PwNApp.app/www/index.html#/firebase
+2015-04-11 12:59:27.897 PwNApp[6440:117709] Camera.getPicture: source type 1 not available.
+2015-04-11 13:00:31.442 PwNApp[6440:118205] Camera.getPicture: source type 1 not available.
+2015-04-11 16:06:45.921 PwNApp[6440:117719] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-04-11 16:06:58.075 PwNApp[6440:117719] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-04-11 16:06:58.349 PwNApp[6440:117719] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-04-11 16:07:00.084 PwNApp[6440:117719] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-04-11 16:07:10.444 PwNApp[6440:117719] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-04-11 16:07:49.515 PwNApp[6440:117719] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-04-11 16:08:35.868 PwNApp[6440:117719] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-04-11 16:09:10.275 PwNApp[6440:117719] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-04-11 16:47:25.551 PwNApp[7282:161443] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Data/Application/E0B0BE0E-3A9C-4A0D-8FCE-26573554BF3B/Library/Cookies/Cookies.binarycookies
+2015-04-11 16:47:25.649 PwNApp[7282:161443] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 16:47:25.650 PwNApp[7282:161443] Multi-tasking -> Device: YES, App: YES
+2015-04-11 16:47:25.652 PwNApp[7282:161443] Unlimited access to network resources
+2015-04-11 16:47:25.915 PwNApp[7282:161443] Resetting plugins due to page load.
+2015-04-11 16:47:26.186 PwNApp[7282:161443] Finished load of: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Bundle/Application/F522647E-C470-4BE7-BB1B-9D6D70F8B7BF/PwNApp.app/www/index.html#/firebase
+2015-04-11 16:47:45.225 PwNApp[7282:161466] Camera.getPicture: source type 1 not available.
+2015-04-11 16:51:32.342 PwNApp[7659:163631] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Data/Application/4C6EA66A-1F1E-44BF-BFF6-4B1C8601543F/Library/Cookies/Cookies.binarycookies
+2015-04-11 16:51:32.430 PwNApp[7659:163631] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 16:51:32.430 PwNApp[7659:163631] Multi-tasking -> Device: YES, App: YES
+2015-04-11 16:51:32.433 PwNApp[7659:163631] Unlimited access to network resources
+2015-04-11 16:51:32.686 PwNApp[7659:163631] Resetting plugins due to page load.
+2015-04-11 16:51:32.980 PwNApp[7659:163631] Finished load of: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Bundle/Application/21CAE01B-A20E-4863-BBA8-7F7ACED6AD56/PwNApp.app/www/index.html#/firebase
+2015-04-11 17:12:20.116 PwNApp[8027:170400] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Data/Application/78DA2975-423E-4945-8F3D-27C7E753BF65/Library/Cookies/Cookies.binarycookies
+2015-04-11 17:12:20.202 PwNApp[8027:170400] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 17:12:20.202 PwNApp[8027:170400] Multi-tasking -> Device: YES, App: YES
+2015-04-11 17:12:20.204 PwNApp[8027:170400] Unlimited access to network resources
+2015-04-11 17:12:20.452 PwNApp[8027:170400] Resetting plugins due to page load.
+2015-04-11 17:12:20.752 PwNApp[8027:170400] Finished load of: file:///Users/jaysetti/Library/Developer/CoreSimulator/Devices/B9B24141-3182-4A7F-8C9E-711EE5D284B5/data/Containers/Bundle/Application/143A772D-9746-4172-8314-1B2FE77250BD/PwNApp.app/www/index.html#/firebase
